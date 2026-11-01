@@ -7,3 +7,5 @@ This project demonstrates Git version control.
 - Student details
 - Student reports
 - Attendance
+- fee
+- fjfjf
